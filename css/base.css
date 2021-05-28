@@ -7,5 +7,22 @@
     width: 80%;
     height: 500px;
     border-radius: 21px;
+    flex-wrap: wrap;
 }
 
+.avatarImgHolder {
+    align-self: center;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.avatarImg {
+
+    width: 350px;
+    height: auto;
+    position: relative;
+    left: -23%;
+
+}
