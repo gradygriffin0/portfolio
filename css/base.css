@@ -34,3 +34,9 @@ h2 {
 p {
     font-family: 'Red Hat Display', sans-serif;
 }
+
+.customCard {
+    margin-top: 40px;
+    overflow: scroll;
+    /*width: 25%;*/
+}
