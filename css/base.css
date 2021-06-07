@@ -4,10 +4,16 @@
 }
 
 .divCenter {
-    width: 80%;
+    /*width: 80%;*/
     height: 500px;
     border-radius: 21px;
     flex-wrap: wrap;
+}
+
+.workCenter {
+    height: 500px;
+    border-radius: 21px;
+
 }
 
 .avatarImgHolder {
@@ -39,8 +45,4 @@ p {
     margin-top: 40px;
     overflow: scroll;
     /*width: 25%;*/
-}
-
-pushmonday {
-
 }
